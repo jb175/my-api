@@ -1,0 +1,4 @@
+com/isep/jbmo60927/myapi/model/Item.class
+com/isep/jbmo60927/myapi/repository/ItemRepository.class
+com/isep/jbmo60927/myapi/MyApiApplication.class
+com/isep/jbmo60927/myapi/controller/ItemController.class
